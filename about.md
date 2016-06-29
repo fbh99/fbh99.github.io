@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm a Physics PhD student at Universidad de los Andes. I love my nieces, Probability Theory, The killers and Arsenal FC COYG
 
-### More Information
+### Location
 
-A place to include any other types of information that you'd like to include about yourself.
+I'm in Bogotá, Colombia...for now
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[juan-gu1@uniandes.edu.co](mailto:juan-gu1@uniandes.edu.co)
