@@ -77,6 +77,12 @@ gems:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
 
+#Settings
+permalink: /:year/:month/:day/:title.html
+redirects: yes     ## A flag to turn on the redirects plugin
+pageviews: no    ## toggle on sidebar pageviews 
+twitter_api: yes
+
 # Exclude these files from your production _site
 exclude:
   - Gemfile
