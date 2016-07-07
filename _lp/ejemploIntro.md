@@ -106,3 +106,27 @@ X_1, X_2 \geq 0
 $$
 
 Note que en realidad son dos restricciones, una para $$X_1$$ y otra para $$X_2$$.
+
+#### Modelo Completo
+
+Si se unen todas las partes que se han desarrollado para el problema, se tiene que el problema formulado como un programa lineal estaría dado por:
+
+$$
+\begin{align*}
+   X_1&: \text{ Cantidad de galletas de vainilla a fabricar cada semana}\\
+   X_2&: \text{ Cantidad de galletas de chips de chocolate a fabricar cada semana}
+\end{align*}
+$$
+
+$$
+\begin{align}
+\max Z=600X_1 &+ 750X_2 \\
+\text{ s.a.} \\
+20X_1 + 18X_2 &\leq 2000 \\
+2X_1 + 3X_2 &\leq 250
+X_1 + X_2 &\leq 100
+X_1, X_2 &\geq 0
+\end{align}
+$$
+
+
