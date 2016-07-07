@@ -24,3 +24,8 @@ La pregunta clave aquí es **¿Qué debe decidirse?**, en este caso la respuesta
    X_1&: \text{ Cantidad de galletas de vainilla a fabricar cada semana}\\\\
    X_2&: \text{ Cantidad de galletas de chips de chocolate a fabricar cada semana}
 \end{align}
+
+##### Parámetros
+
+ La pregunta clave en este caso es **¿Qué información se encuentra disponible para tomar la decisión?**, en este problema tenemos para cada galleta, el precio de venta, de donde obtenemos la ganacia unitaria; el requerimiento de cada tipo de materia prima para cada galleta; la cantidad semanal disponible de cada tipo de materia prima y la capacidad diaria del horno, la que se puede llevar a una capacidad semanal. En resumen los parámetros del problema son:
+ 
