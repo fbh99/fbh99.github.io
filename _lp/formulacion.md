@@ -33,3 +33,31 @@ Los valores $$c_1, c_2, \ldots, c_n$$ son los coeficientes de la combinación y 
 Note que la forma funcional de la función objetivo es única, para ser lineal siempre debe tener esta forma, eso excluye funciones con términos tales como: $$X_i^2$$ o $$\sqrt{X_i}$$ o $$X_i^n$$ donde el $$n$$ esduferente de 1, tampoco se tienen términos de la forma $$X_i\cdot X_j$$ o $$\ln{X_i}$$ o cualquier otra función no lineal. 
 
 En algunos casos se tendrán variables que tienen un dominio continuo, en ese caso el programa no será lineal pero como existen algoritmos de solución eficientes para muchos de esos casos, se usarán variables enteras (incluyendo las binarias) en los modelos de este curso. Adicionalmente, si se tiene una variable no restricta, es decir, que puede tomar valores negativos así como mayores o iguales que 0, siempre se podrá llevar a una combinación de variables no negativas, así que este caso no será un problema para los modelos. 
+
+Finalmente, es importante resaltar que todas las restricciones deben ser funciones lineales, es decir, al igual que la función objetivo, deben ser combinaciones lineales de las variables de decisión, estas combinaciones lineales se conocen como el lado izquierdo de la restricción, mientras que el **lado derecho** será un valor independiente de las variables de decisión, conocido de antemano y determinístico. La relación entre el lado izquierdo y el lado derecho puede esta dada por una igualdad o una desigualdad, un ejemplo particular de cada una se muestra a continuación:
+
+  - Igualdad
+
+$$
+\begin{align}
+a_1X_1 + a_2X_2 + \cdots + a_nX_n  = b
+\end{align}
+$$
+
+  - Desigualdad de menor o igual
+
+$$
+\begin{align}
+a_1X_1 + a_2X_2 + \cdots + a_nX_n  \leq b
+\end{align}
+$$
+
+  - Desigualdad de mayor o igual
+
+$$
+\begin{align}
+a_1X_1 + a_2X_2 + \cdots + a_nX_n  \geq b
+\end{align}
+$$
+
+donde los valores $$a_1, a_2, \ldots, a_n$$ se conocen como los coeficientes tecnológicos de la restricción, los cuales pueden tomar cualquier valor en los números reales, inclusive 0, mientras que el valor $$b$$ debe ser un valor no negativo, si este no es el caso siempre ae puede multiplicar a toda la retricción por -1.
