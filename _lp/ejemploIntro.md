@@ -121,10 +121,10 @@ $$
 $$
 \begin{align}
 \max Z=600X_1 &+ 750X_2 \\
-\text{ s.a.} \\
+\text{ s.a.}~~~~~~~~~~& \\
 20X_1 + 18X_2 &\leq 2000 \\
-2X_1 + 3X_2 &\leq 250
-X_1 + X_2 &\leq 100
+2X_1 + 3X_2 &\leq 250 \\
+X_1 + X_2 &\leq 100 \\
 X_1, X_2 &\geq 0
 \end{align}
 $$
