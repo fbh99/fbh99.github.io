@@ -36,4 +36,4 @@ $$
 | Vainilla           | $1200               | $600     | 20 g       | 2 g          |
 | Chips de Chocolate | $1500               | $750     | 18 g       | 3 g          |
 | Total Disponible   |                     |          | 2000 g     | 250 g        |
-{: rules="groups"} 
+{:.mbtablestyle} 
