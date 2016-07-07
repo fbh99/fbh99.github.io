@@ -52,3 +52,26 @@ Primero consideremos la disponibilidad de harina, si sólo se fabricaran galleta
 galletas de vainilla, el gasto de harina sería de $$ 20X_1 $$
 , por otra parte, al considerar las galletas de chips de chocolate, se tiene que su consumo de harina sería de $$ 18X_2$$
 , así el consumo total de harina sería la suma de las dos cantidades halladas, es decir, $$ 20X_1 + 18X_2$$
+. Dicho consumo no debe sobrepasar la cantidad semanal de harina disponible, esto en forma de una desigualdad se expresa como:
+$$
+\begin{align}
+20X_1 + 18X_2 \leq 2000
+\end{align}
+$$
+
+De una forma equivalente, al considerar la levadura se tiene que el consumo para las galletas de vainilla es de $$ 2X_1$$
+, mientras que el consumo de levadura de las galletas de chips de chocolate es de $$ 3X_2$$
+. Por lo tanto, el consumo total de levadura sería la suma de las dos cantidades, es decir, $$ 2X_1 + 3X_2$$
+, la cual no debe superar la disponibilidad semanal de levadura, así tenemos la siguiente desigualdad:
+$$
+\begin{align}
+2X_1 + 3X_2 \leq 250
+\end{align}
+$$
+
+Finalmente, se dispone de 5 días para hornear las galletas y cada día se pueden hornear 20 de ellas, es decir, en la semana se pueden hornear en total 100 galletas, así la suma total de las galletas fabricadas, las de vainilla más las de chips de chocolate, no debe ser mayor que 100, en forma de desigualdad esto sería:
+$$
+\begin{align}
+X_1 + X_2 \leq 100
+\end{align}
+$$
