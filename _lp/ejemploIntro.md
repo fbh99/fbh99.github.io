@@ -34,7 +34,7 @@ $$
  
 $$
 \begin{array} {l|cccc}
-\text{Tipo de Galleta} & \text{Precio de Venta} & \text{Ganancia} & \text{Harina Req} & \text{Levadura Req} \\
+\text{Tipo de Galleta} & \text{Precio} & \text{Ganancia} & \text{Harina} & \text{Levadura} \\
  \hline \hline
  \text{Vainilla}           & $1200 & $600 & 20 g & 2 g \\
  \text{Chips de Chocolate} & $1500 & $750 & 18 g & 3 g \\
