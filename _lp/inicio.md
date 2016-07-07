@@ -5,10 +5,12 @@ use_math: true
 ---
 
 Bienvenidos al curso de **Programación Lineal** (**Optimización Lineal** o **Investigación de Operaciones I**). Para entender: 
+
   - ¿qué es un programa lineal?, 
   - ¿cómo formularlo correctamente?, 
   - ¿cómo resolverlo? y 
   - ¿cómo interpretar sus resultados? 
+
 Seguiremos el desarrollo normal de un curso de introducción a la optimización lineal que se dicta en las principales universidades de Colombia.
 {: .text-align: justify}
 
