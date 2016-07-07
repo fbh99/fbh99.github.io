@@ -31,7 +31,7 @@ $$
 
  La pregunta clave en este caso es **¿Qué información se encuentra disponible para tomar la decisión?**, en este problema tenemos para cada galleta, el precio de venta, de donde obtenemos la ganacia unitaria; el requerimiento de cada tipo de materia prima para cada galleta; la cantidad semanal disponible de cada tipo de materia prima y la capacidad diaria del horno, la que se puede llevar a una capacidad semanal. En resumen los parámetros del problema son:
  
-| **Tipo de Galleta**| **Precio de Venta** | **Ganancia** | **Harina Req** | **Levadura Req** |
+| **Tipo de Galleta**| **Precio de Venta**&nbsp | &nbsp**Ganancia** | **Harina Req** | **Levadura Req** |
 |:------------------:|:-------------------:|:------------:|:--------------:|:----------------:|
 | Vainilla           | $1200               | $600     | 20 g       | 2 g          |
 | Chips de Chocolate | $1500               | $750     | 18 g       | 3 g          |
