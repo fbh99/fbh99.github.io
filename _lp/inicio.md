@@ -17,7 +17,7 @@ Seguiremos el desarrollo normal de un curso de introducción a la optimización 
 A continuación encontrarán un listado del contenido básico que está a su disposición:
 
   - [Ejemplo Introductorio](http://jcgutierrez.com/lp/ejemploIntro/index.html)
-  - Formulación de Problemas
+  - [Formulación de Problemas](http://jcgutierrez.com/lp/formulacion/index.html)
       - Problemas de Producción
       - Problemas de Selección de Portafolios
       - Problemas de Mezcla (Dieta)
