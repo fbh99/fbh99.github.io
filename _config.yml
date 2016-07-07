@@ -83,6 +83,12 @@ redirects: yes     ## A flag to turn on the redirects plugin
 pageviews: no    ## toggle on sidebar pageviews 
 twitter_api: yes
 
+#Collections
+collections:
+  lp:
+    output: true
+    permalink: /lp/:path/
+    
 # Exclude these files from your production _site
 exclude:
   - Gemfile
