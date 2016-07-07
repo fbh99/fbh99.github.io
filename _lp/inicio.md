@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Formulando un problema
+title: Programación Lineal
 use_math: true
 ---
 
