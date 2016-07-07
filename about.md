@@ -12,4 +12,4 @@ I'm in Bogotá, Colombia...for now
 
 ### Contact me
 
-[juan-gu1@uniandes.edu.co](mailto:juan-gu1@uniandes.edu.co)
+[info@jcgutierrez.com](mailto:info@jcgutierrez.com)
