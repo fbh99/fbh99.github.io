@@ -44,6 +44,24 @@ $$
 \end{array}
 $$
 
+##### Función Objetivo
+
+Es momento de cuantificar el impacto de la decisión, es decir, responder la  **¿Cuál es el impacto económico de la decisión?**. En este caso, por cada galleta producida se tiene una ganacia neta, $600 por unidad de vainilla y $750 por cada una de las de chips de chocolate. Así, la ganacia obtenida con las galletas de vainilla sería de $$600X_1$$ pesos, mientas que para las de chips de chocolate la ganacia está representada por $$750X_2$$. Por lo tanto la ganancai total, al considerar los dos tipos de galletas, está dada por:
+
+$$
+\begin{align}
+Z=600X_1 + 750X_2
+\end{align}
+$$
+
+En donde a la ganacia total se representa con la letra $$ Z $$. Falta considerar el **criterio de optimización**, es decir, si queremos que $$ Z $$ se haga máximo o mínimo. En este caso, por tratarse de ganacia, es evidente que debemos maximizar, por lo tanto el problema se escribe como:
+
+$$
+\begin{align}
+\max Z=600X_1 + 750X_2
+\end{align}
+$$
+
 ##### Restricciones
 
 Ahora es el turno de responder la pregunta **¿Qué limita la decisión?**, es decir, qué impide que se fabriquen miles y miles de galletas semanalmente. En este caso, las limitaciones vienen dadas por las dos materias primas y por la capacidad del horno. 
