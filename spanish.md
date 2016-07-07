@@ -12,4 +12,5 @@ Por ahora en Bogotá, Colombia
 
 ### Contáctame en
 
-[juan-gu1@uniandes.edu.co](mailto:juan-gu1@uniandes.edu.co)
+[info@jcgutierrez.com](mailto:info@jcgutierrez.com)
+
