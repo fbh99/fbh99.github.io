@@ -14,4 +14,7 @@ En general, si podemos caracterizar el tipo de problemas que abordaremos en este
   - El problema está restringido
   - Tanto la función objetivo, como cada una de las restricciones son funciones lineales en las variables del problema
 
+En algunos casos la tercera condición estará acompañada por una más estricta para un subconjunto de las variables de decisión, exigiendo que las variables sean enteras no negativas o, restringuiendo aún más, que las variables sean binarias (variables que sólo toman valores de 0 o 1). En cualquiera de los casos el problema ya no es un programa lineal, se le conoce como programa entero mixto.
+
+
 
