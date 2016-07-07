@@ -39,11 +39,9 @@ $$
 {:.mbtablestyle} 
  
 $$
-\begin{array} {|r|r|}
-\hline
-1 &2 \\
-\hline
-3 &4 \\
-\hline
+\begin{array} {l|cccc}
+ Vainilla           & $1200 & $600 & 20 g & 2 g \\
+ Chips de Chocolate & $1500 & $750 & 18 g & 3 g \\
+ Total Disponible   &       & & 2000 g & 250 g 
 \end{array}
 $$
