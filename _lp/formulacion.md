@@ -22,5 +22,12 @@ Al tratarse de un problema de optimización, se buscan los valores extremos glob
 
 Aunque hay variantes en donde se tienen múltiples funciones objetivo que se buscan optimizar, en este curso nos centramos en los problemas con una única función objetivo. Ésta debe ser lineal, es decir, una combinación lineal de la variables de decisión:
 
+$$
+\begin{align}
+c_1X_1 + c_2X_2 + \cdots + c_nX_n
+\end{align}
+$$
 
+Los valores $$c_1, c_2, \ldots, c_n$$ son los coeficientes de la combinación y se asumiran conocidos de antemano, determinísticos e independientes de las variables de decisión. Algunos de esos valores pueden ser 0 si la variable asociada no contribuye a la función objetivo. 
 
+Note que la forma funcional de la función objetivo es única, para ser lineal siempre debe tener esta forma, eso excluye funciones con términos tales como: $$X_i^2$$ o $$\sqrt{X_i}$$ o $$X_i^n$$ donde el $$n$$ esduferente de 1, tampoco se tienen términos de la forma $$X_i X_j$$ o $$\ln{X_i}$$ o cualquier otra función no lineal. 
