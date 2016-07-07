@@ -20,4 +20,7 @@ Antes de comenzar con los modelos prototipo se deben hacer unas pequeñas aclara
 
 Al tratarse de un problema de optimización, se buscan los valores extremos globales que toma la función objetivo, estos pueden ser un máximo o un mínimo, cuál de los dos se obtiene dependerá del criterio de optimización utilizado: **maximizar** o **minimizar**.
 
+Aunque hay variantes en donde se tienen múltiples funciones objetivo que se buscan optimizar, en este curso nos centramos en los problemas con una única función objetivo. Ésta debe ser lineal, es decir, una combinación lineal de la variables de decisión:
+
+
 
