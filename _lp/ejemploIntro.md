@@ -4,7 +4,7 @@ title: Formulando un problema
 use_math: true
 ---
 
-Vamos a comenzar con un ejemplo sencillo, en las próximas secciones abordaremos las preguntas planteadas anteriormente y desarrollaremos los consptos básicos de la programación lineal.
+_Vamos a comenzar con un ejemplo sencillo, en las próximas secciones abordaremos las preguntas planteadas anteriormente y desarrollaremos los consptos básicos de la programación lineal_.
 
 Suponga que usted desea mejorar su situación económica en la universidad y planea vender galletas caseras a sus compañeros de clase. La receta familiar que usted posee garantiza la venta de todas las galletas que fabrique, pero los ingredientes con los que cuenta usted y la capacidad de su horno limita considerablemente su producción, así que debe organizarla de la mejor manera. 
 
