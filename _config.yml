@@ -62,7 +62,6 @@ version: v1.2.0
 kramdown:
   # Use GitHub flavored markdown, including triple backtick fenced code blocks
   input: GFM
-  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "strikethrough", "superscript", "with_toc_data"]
   # Jekyll 3 and GitHub Pages now only support rouge for syntax highlighting
   syntax_highlighter: rouge
   syntax_highlighter_opts:
