@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Español
+title: Quién soy yo?
 permalink: /spanish/
 ---
 
