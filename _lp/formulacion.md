@@ -60,4 +60,4 @@ a_1X_1 + a_2X_2 + \cdots + a_nX_n  \geq b
 \end{align}
 $$
 
-donde los valores $$a_1, a_2, \ldots, a_n$$ se conocen como los coeficientes tecnológicos de la restricción, los cuales pueden tomar cualquier valor en los números reales, inclusive 0, mientras que el valor $$b$$ debe ser un valor no negativo, si este no es el caso siempre ae puede multiplicar a toda la retricción por -1.
+donde los valores $$a_1, a_2, \ldots, a_n$$ se conocen como los coeficientes tecnológicos de la restricción, los cuales pueden tomar cualquier valor en los números reales, inclusive 0, mientras que el valor $$b$$ debe ser un valor no negativo, si este no es el caso siempre se puede multiplicar a toda la retricción por -1.
