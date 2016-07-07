@@ -10,5 +10,5 @@ Los cursos que hasta el momento he actualizado se muestran a continuación:
 
 ### Ingeniería
 
-#### [Investigación de Operaciones I](https://fbh99.github.io/lp/inicio/index.html)
+  - [Investigación de Operaciones I](https://fbh99.github.io/lp/inicio/index.html)
 
