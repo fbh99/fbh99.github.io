@@ -20,6 +20,6 @@ Vamos a desarrollar el modelo con todos sus elementos, cada uno de ellos respond
 
 La pregunta clave aquí es **¿Qué debe decidirse?**, en este caso la respuesta corresponde al número de galletas de cada tipo que usted debe fabricar cada semana, formalmente se definen dos variables de la siguiente forma:
 
-\begin{equation}
+\begin{align}
    X_1: \text{ Cantidad de galletas de vainilla a fabricar cada semana}
-\end{equation}
+\end{align}
