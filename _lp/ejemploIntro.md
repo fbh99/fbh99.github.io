@@ -43,3 +43,12 @@ $$
  \hline
 \end{array}
 $$
+
+##### Restricciones
+
+Ahora es el turno de responder la pregunta **¿Qué limita la decisión?**, es decir, qué impide que se fabriquen miles y miles de galletas semanalmente. En este caso, las limitaciones vienen dadas por las dos materias primas y por la capacidad del horno. 
+
+Primero consideremos la disponibilidad de harina, si sólo se fabricaran galletas de vainilla, se consumen 20 g por cada galleta fabricada, como se van a fabricar $$ X_1 $$ 
+galletas de vainilla, el gasto de harina sería de $$ 20X_1 $$
+, por otra parte, al considerar las galletas de chips de chocolate, se tiene que su consumo de harina sería de $$ 18X_2$$
+, así el consumo total de harina sería la suma de las dos cantidades halladas, es decir, $$ 20X_1 + 18X_2$$
