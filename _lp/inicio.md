@@ -16,7 +16,7 @@ Seguiremos el desarrollo normal de un curso de introducción a la optimización 
 
 A continuación encontrarán un listado del contenido básico que está a su disposición:
 
-  - [Ejemplo Introductorio](https://fbh99.github.io/lp/ejemploIntro/index.html)
+  - [Ejemplo Introductorio](http://jcgutierrez.com/lp/ejemploIntro/index.html)
   - Formulación de Problemas
       - Problemas de Producción
       - Problemas de Selección de Portafolios
