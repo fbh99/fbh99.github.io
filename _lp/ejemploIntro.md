@@ -38,3 +38,12 @@ $$
 | Total Disponible   |                     |          | 2000 g     | 250 g        |
 {:.mbtablestyle} 
  
+$$
+\begin{array} {|r|r|}
+\hline
+1 &2 \\
+\hline
+3 &4 \\
+\hline
+\end{array}
+$$
