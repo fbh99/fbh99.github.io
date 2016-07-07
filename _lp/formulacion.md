@@ -30,4 +30,6 @@ $$
 
 Los valores $$c_1, c_2, \ldots, c_n$$ son los coeficientes de la combinación y se asumiran conocidos de antemano, determinísticos e independientes de las variables de decisión. Algunos de esos valores pueden ser 0 si la variable asociada no contribuye a la función objetivo. 
 
-Note que la forma funcional de la función objetivo es única, para ser lineal siempre debe tener esta forma, eso excluye funciones con términos tales como: $$X_i^2$$ o $$\sqrt{X_i}$$ o $$X_i^n$$ donde el $$n$$ esduferente de 1, tampoco se tienen términos de la forma $$X_i X_j$$ o $$\ln{X_i}$$ o cualquier otra función no lineal. 
+Note que la forma funcional de la función objetivo es única, para ser lineal siempre debe tener esta forma, eso excluye funciones con términos tales como: $$X_i^2$$ o $$\sqrt{X_i}$$ o $$X_i^n$$ donde el $$n$$ esduferente de 1, tampoco se tienen términos de la forma $$X_i\cdot X_j$$ o $$\ln{X_i}$$ o cualquier otra función no lineal. 
+
+En algunos casos se tendrán variables que tienen un dominio continuo, en ese caso el programa no será lineal pero como existen algoritmos de solución eficientes para muchos de esos casos, se usarán variables enteras (incluyendo las binarias) en los modelos de este curso. Adicionalmente, si se tiene una variable no restricta, es decir, que puede tomar valores negativos así como mayores o iguales que 0, siempre se podrá llevar a una combinación de variables no negativas, así que este caso no será un problema para los modelos. 
