@@ -14,4 +14,4 @@ Por ahora en Bogotá, Colombia
 
 [info@jcgutierrez.com](mailto:info@jcgutierrez.com)
 
-{% include form.html %}
+
