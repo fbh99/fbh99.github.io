@@ -4,7 +4,7 @@ title: Quién soy yo?
 permalink: /spanish/
 ---
 
-Soy un estudiante de doctorado en Física en la Universidad de los Andes. Amo a mis sobrina, la teoría de probabilidad, The killers y al Arsenal FC [COYG!]
+Soy un estudiante de doctorado en Física en la Universidad de los Andes. Amo a mis sobrinas, la teoría de probabilidad, The killers y al Arsenal FC [COYG!]
 
 ### Ubicación
 
